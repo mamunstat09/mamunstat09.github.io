@@ -10,7 +10,7 @@ Statistical Modeling | Data Science | Machine Learning | Survey Research
 - **Statistical Consulting Center, Central Michigan University**  
   Provided statistical consulting on study design, data analysis, and interpretation across multidisciplinary projects  
 
-- **Research Organizations (Bangladesh)**  
+- **Research Organizations, Bangladesh**  
   Transparency International Bangladesh (TIB), Human Development Research Centre (HDRC),  
   Reproductive Health Services Training and Education Program (RHSTEP),  
   SURCH – A House of Survey Research  
